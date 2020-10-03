@@ -1,0 +1,83 @@
+.carousel-item {
+   height: 650px;
+}
+
+.slideText{
+    
+    background-color:rgba(255, 255, 255, .5);
+    width: 200px;
+    align-items: center;
+    margin: auto; 
+    color: black;
+    height: 70px;
+}
+
+button{
+    margin-top: 10px; 
+}
+
+p{
+    font-family: 'Secular One', sans-serif;
+}
+
+.card-deck{
+    display: flex;
+    margin: auto;
+    padding: 30px;
+}
+
+.row{
+    padding: 30px;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+img{
+    width: 100%;
+}
+.card-footer{
+    width: 100%;
+}
+
+#pic{
+    float: right;
+    width: 400px;
+}
+#text{
+    margin-right: 50px;
+}
+
+.colPic{
+    width: 200px;
+}
+
+.footer {
+    background-color:white;
+    color:black;
+    padding: 3%;
+    margin-top: 50px;
+}
+.fab{
+    color:black;
+    font-size: 30px;
+    padding: 10px;
+}
+i{
+    width: 38px;
+}
+
+.fas{
+    font-size: 60px;
+}
